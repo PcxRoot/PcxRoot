@@ -53,8 +53,6 @@ $ ./initialize_profile --user "PcxRoot"
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" alt="linux logo"  />
   <img width="300">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="75" alt="bash logo"  />
-  <img width="300">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="75" alt="windows8 logo"  />
 </div>
 
@@ -64,7 +62,9 @@ $ ./initialize_profile --user "PcxRoot"
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75" alt="python logo"  />
-  <img width="600">
+  <img width="300">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="75" alt="bash logo"  />
+  <img width="300">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="75" alt="javascript logo"  />
 </div>
 
