@@ -31,7 +31,7 @@ $ ./initialize_profile --user "PcxRoot"
 
 <br>
 
-<h1>Redes</h1>
+<h1 align="center">Redes</h1>
 
 <br>
 
@@ -60,7 +60,7 @@ $ ./initialize_profile --user "PcxRoot"
 ###
 
 
-<h1>Skills</h1>
+<h1 align="center">Skills</h1>
 
 <!--
 
