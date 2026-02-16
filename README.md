@@ -50,8 +50,7 @@ $ ./initialize_profile --user "PcxRoot"
 
 <h2 align="center"><bold>💻Sistemas Operativos🐧</bold></h2>
 
-<div>
-  <img width="75">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="75" alt="linux logo"  />
   <img width="300">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="75" alt="bash logo"  />
