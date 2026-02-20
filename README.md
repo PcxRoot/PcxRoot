@@ -50,7 +50,7 @@ $ ./initialize_profile --user "PcxRoot"
 <div align="center">
 
 ### 📩 Contacto & Proyectos
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pcx0260@gmail.com)
 ![Instagram](https://img.shields.io/badge/Instagram-PRÓXIMAMENTE-lightgrey?style=for-the-badge&logo=instagram&logoColor=white)
 
 </div>
