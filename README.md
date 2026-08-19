@@ -95,6 +95,8 @@ $ ./initialize_profile --user "PcxRoot"
 
 <br>
 
+---
+
 ```bash
 [root@PcxRoot ~]# logout
 > Stopping system services... [OK]
