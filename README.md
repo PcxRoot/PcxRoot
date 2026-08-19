@@ -84,14 +84,14 @@ $ ./initialize_profile --user "PcxRoot"
 
 ## 🐍 Proyectos Destacados
 
-| ***Proyecto*** | ***Descripción*** | ***Enlace*** |
-| :--- | :--- | :--- |
-| **FotoCopy** | Aplicación de interfaz gráfica que permite saltarse las limitaciones de *Rutas Largas* de Windows de forma amigable para el usuario no técnico | ***[Ver Repo ➔](https://github.com/PcxRoot/FotoCopy)*** |
-| **dns_enumeration** | Herramienta de línea de comandos que permite recabar información de los registros DNS de un objetivo | ***[Ver Repo ➔](https://github.com/PcxRoot/dns_enumeration)*** |
-| **network_analyzer** | Herramienta que permite detectar los hosts activos y sus puertos de una red | ***[Ver Repo ➔](https://github.com/PcxRoot/network-analyzer)*** |
-| **CTFs** | *Writeups* y documentación de las máquina CTF que realizo | ***[Ver Repo ➔](https://github.com/PcxRoot/CTFs)*** |
-| ***Portswigger-Python-Labs** | Proyecto en el que trato de explicar las vulnerabilidades de la academia *Burp Suite Academy* y sus laboratorios, complementándolo con scripts que automatizan la explotación de las vulnerabilidades de los laboratorios para mostrar la importancia de la programación en el sector de la ciberseguridad | ***[Ver Repo ➔](https://github.com/PcxRoot/Portswigger-Python-Labs)*** |
-| **Electronica** | Pequeño repositorio en el que muestro mi camino en el estudio de la electrónico tanto digital como industrial, con proyectos personales escritos en ***C++*** o ***ST*** | ***[Ver Repo ➔](https://github.com/PcxRoot/Electronica)*** |
+| ***Proyecto*** | ***Sector*** |***Descripción*** | ***Enlace*** |
+| :--- | :---: | :--- | :--- |
+| **FotoCopy** | *SysAdmin / Developer* | Aplicación de interfaz gráfica que permite saltarse las limitaciones de *Rutas Largas* de Windows de forma amigable para el usuario no técnico | ***[Ver Repo ➔](https://github.com/PcxRoot/FotoCopy)*** |
+| **dns_enumeration** | *Ciberseguridad /  OSINT* | Herramienta de línea de comandos que permite recabar información de los registros DNS de un objetivo | ***[Ver Repo ➔](https://github.com/PcxRoot/dns_enumeration)*** |
+| **network_analyzer** | *SysAdmin / Ciberseguridad* | Herramienta que permite detectar los hosts activos y sus puertos de una red | ***[Ver Repo ➔](https://github.com/PcxRoot/network-analyzer)*** |
+| **CTFs** | *Ciberseguirdad* | *Writeups* y documentación de las máquina CTF que realizo | ***[Ver Repo ➔](https://github.com/PcxRoot/CTFs)*** |
+| ***Portswigger-Python-Labs** | *Ciberseguridad* | Proyecto en el que trato de explicar las vulnerabilidades de la academia *Burp Suite Academy* y sus laboratorios, complementándolo con scripts que automatizan la explotación de las vulnerabilidades de los laboratorios para mostrar la importancia de la programación en el sector de la ciberseguridad | ***[Ver Repo ➔](https://github.com/PcxRoot/Portswigger-Python-Labs)*** |
+| **Electronica** | *Automatización* | Pequeño repositorio en el que muestro mi camino en el estudio de la electrónico tanto digital como industrial, con proyectos personales escritos en ***C++*** o ***ST*** | ***[Ver Repo ➔](https://github.com/PcxRoot/Electronica)*** |
 
 <br>
 
