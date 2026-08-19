@@ -19,7 +19,7 @@ $ ./initialize_profile --user "PcxRoot"
 
 ###
 
-<h3 align="center">Estudiante apasionado por la ciberseguridad y el hacking ético></h3><p align="center">Actualmente enfocado en aprender metodologías de [Pentesting/Red Teaming/Defensa] y compartiendo mi camino en el aprendizaje.</p>
+<h3 align="center">Estudiante apasionado por la ciberseguridad y el hacking ético</h3><p align="center">Actualmente enfocado en aprender metodologías de [<i>Pentesting/Red Teaming/Defensa</i>] y compartiendo mi camino en el aprendizaje.</p>
 
 ###
 
