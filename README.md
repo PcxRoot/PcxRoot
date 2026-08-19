@@ -1,4 +1,3 @@
-
 ```bash
 $ ./initialize_profile --user "PcxRoot"
 ------------------------------------------------------
@@ -23,29 +22,11 @@ $ ./initialize_profile --user "PcxRoot"
 
 ###
 
-<!--
-<div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=false&text=Redes&fontSize=50&fontColor=0D669E&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
-</div>
--->
-
 <br>
 
 <h1 align="center">Redes</h1>
 
 <br>
-
-<!--
-
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=proximamente&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <br>
-  <a href="pcx0260@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-</div>
-
--->
 
 <div align="center">
 
@@ -58,7 +39,6 @@ $ ./initialize_profile --user "PcxRoot"
 <br>
 
 ###
-
 
 <h1 align="center">Skills</h1>
 
@@ -102,32 +82,16 @@ $ ./initialize_profile --user "PcxRoot"
 
 <br>
 
-## 🛡️ Ciberseguridad
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+## 🐍 Proyectos Destacados
 
-### 🔍 Recon && Fuzzing
-![Nmap Scanning](https://img.shields.io/badge/Nmap-Network_Scanning-39FF14?style=for-the-badge&logo=nmap&logoColor=black)
-![FFUF](https://img.shields.io/badge/FFUF-FF0055?style=for-the-badge&logo=target&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-00519E?style=for-the-badge&logo=search&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-### ☠️ Exploitation && Shells
-![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-FF6600?style=for-the-badge&logo=metasploit&logoColor=white)
-![Netcat](https://img.shields.io/badge/Netcat-00FF00?style=for-the-badge&logo=terminal&logoColor=black)
-![Reverse Shell](https://img.shields.io/badge/Reverse_Shell-Active-red?style=for-the-badge&logo=powershell&logoColor=white)
-
-### 🔓 Password Cracking
-![JohnTheRipper](https://img.shields.io/badge/John_The_Ripper-000000?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Hashcat](https://img.shields.io/badge/Hashcat-222222?style=for-the-badge&logo=password&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-2A3F5A?style=for-the-badge&logo=target&logoColor=white)
-
-### 🚩 CTF && Labs
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
-![picoCTF](https://img.shields.io/badge/picoCTF-1F1F1F?style=for-the-badge&logo=target&logoColor=white)
-
-</div>
+| ***Proyecto*** | ***Descripción*** | ***Enlace*** |
+| :--- | :--- | :--- |
+| **FotoCopy** | Aplicación de interfaz gráfica que permite saltarse las limitaciones de *Rutas Largas* de Windows de forma amigable para el usuario no técnico | ***[Ver Repo](https://github.com/PcxRoot/FotoCopy)*** |
+| **dns_enumeration** | Herramienta de línea de comandos que permite recabar información de los registros DNS de un objetivo | ***[Ver Repo](https://github.com/PcxRoot/dns_enumeration)*** |
+| **network_analyzer** | Herramienta que permite detectar los hosts activos y sus puertos de una red | **[Ver Repo](https://github.com/PcxRoot/network-analyzer)*** |
+| **CTFs** | *Writeups* y documentación de las máquina CTF que realizo | ***[Ver Repo](https://github.com/PcxRoot/CTFs)*** |
+| ***Portswigger-Python-Labs** | Proyecto en el que trato de explicar las vulnerabilidades de la academia *Burp Suite Academy* y sus laboratorios, complementándolo con scripts que automatizan la explotación de las vulnerabilidades de los laboratorios para mostrar la importancia de la programación en el sector de la ciberseguridad | ***[Ver Repo](https://github.com/PcxRoot/Portswigger-Python-Labs)*** |
+| **Electronica** | Pequeño repositorio en el que muestro mi camino en el estudio de la electrónico tanto digital como industrial, con proyectos personales escritos en ***C++*** o ***ST*** | ***[Ver Repo](https://github.com/PcxRoot/Electronica)*** |
 
 <br>
 
